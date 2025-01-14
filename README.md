@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AlexVaquero19
 - 👀 I’m interested in new Technologies
 - 🌱 I’m currently working with C# and .NET
-- 💞️ I’m looking to collaborate on many projects wich makes me improvements in my habilities
+- 💞️ I’m looking to collaborate on many projects which makes me improvements in my habilities
